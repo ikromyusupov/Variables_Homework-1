@@ -1,4 +1,3 @@
 # Homework
 
-- **Variables**
-- **Variables and Arithmetic Oepration**
+- **Variables Homework**
