@@ -1,4 +1,4 @@
-name: VARIABLES_HOWEWORK
+name: VARIABLES_HOWEWORK-1
 on: [push]
 jobs:
   build:
