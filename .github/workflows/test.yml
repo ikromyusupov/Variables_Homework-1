@@ -4,4 +4,4 @@ jobs:
   build:
     run-on: ubuntu-latest
       steps:
-      -run: python3 print("salom")
+        - run: python3 print("salom")
