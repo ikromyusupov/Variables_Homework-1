@@ -4,4 +4,5 @@ jobs:
   build:
     run-on: ubuntu-latest
       steps:
-        - run: python3 print("salom")
+        -uses: actions/checkout@v2
+        - run: python3 var01.py
