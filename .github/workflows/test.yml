@@ -1,4 +1,4 @@
-name: var01
+name: test
 on: [push]
 jobs:
   build:
