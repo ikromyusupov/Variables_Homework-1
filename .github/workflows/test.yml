@@ -2,6 +2,6 @@ name: test
 on: [push]
 jobs:
   build:
-    run-on: ubuntu-lastet
+    run-on: ubuntu-latest
       steps:
       -run: python3 print("salom")
