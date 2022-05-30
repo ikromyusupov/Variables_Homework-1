@@ -1,0 +1,7 @@
+name: test
+on: [push]
+jobs:
+  build:
+    run-on: ubuntu-lastet
+      steps:
+      -run: python3 print("salom")
